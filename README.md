@@ -1,0 +1,1 @@
+# Cross-Forgery-Analysis-of-Vision-Transformers-and-CNNs-for-Deepfake-Image-Detection
