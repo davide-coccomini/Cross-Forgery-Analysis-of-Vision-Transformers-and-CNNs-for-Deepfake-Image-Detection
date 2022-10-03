@@ -1,0 +1,21 @@
+training:
+  lr: 0.1
+  weight-decay: 0.0000001
+  bs: 16
+  scheduler: 'steplr'
+  gamma: 0.1
+  step-size: 20
+
+
+model:
+  image-size: 224
+  num-classes: 1
+  depth: 12
+  patch-size: 16
+  dim: 768
+  depth: 12
+  heads: 12
+  mlp-dim: 3072
+  dropout: 0.1
+  emb-dropout: 0.1
+
